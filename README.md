@@ -1,2 +1,2 @@
 # Camera-App
-click photos and store it in your device.
+click photos and store them in your device.
